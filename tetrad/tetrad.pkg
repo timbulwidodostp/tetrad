@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'tetrad': Conduct Confirmatory Tetrad Analysis (CTA) Use tetrad With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f tetrad.ado
+f tetrad.sthlp
+f tetrad_bootstrap.ado
+f tetrad_bootstrap.sthlp
+f tetrad_matrix.ado
+f tetrad_matrix.sthlp
