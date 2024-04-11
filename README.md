@@ -1,6 +1,8 @@
 # tetrad
 Conduct Confirmatory Tetrad Analysis (CTA) Use tetrad With STATA 18
 
+https://www.youtube.com/watch?v=wWYZwyt9PYc
+
 Confirmatory Tetrad Analysis (CTA) Use tetrad With STATA 18
 
 Olah Data Semarang
